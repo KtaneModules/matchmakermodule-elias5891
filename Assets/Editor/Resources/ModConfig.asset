@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: matchmaker
+  title: Matchmaker
+  author: Elias5891, Timwi
+  description: "Help these 10 people find their new buddy.  Based off Human Resources
+    module, original development by Timwi.  \n\nManual (PDF) at: https://drive.google.com/file/d/17t3yrjRaonOh2oNsQnBaJkkMQNtwlZo0/view?usp=sharing\nHTML
+    version should be bundled with the module.  \n\nThis version does not currently
+    support Twitch Plays.  If any changes are desired to be made to the code, the
+    code is presently located at https://drive.google.com/drive/folders/14y_PMxY1WUU3RIlW-wE4L2YjfDzKjPQ3?usp=sharing,
+    but will be moved to Github at some stage."
+  version: 1.0
+  outputFolder: C:\Program Files (x86)\Steam\SteamApps\common\Keep Talking and Nobody
+    Explodes\mods
+  previewImage: {fileID: 2800000, guid: bd5c1f4881f57d54481b44e4c8a7779a, type: 3}
